@@ -17,7 +17,7 @@ Follow these simple steps to import this skill directly into your Gemini web acc
 1. Open your Gemini app interface and click on **Customise** in the left sidebar.
 2. Select the **Skills** tab at the top of the screen.
 3. Click the **Create** button and choose **Upload skill**.
-4. Select or drag the extracted folder named `life-copilot` (located inside `agents/skills/`) straight into the upload box.
+4. Select or drag either of the extracted folders located inside `agents/skills/` (`life-copilot` or `career-catalyst`) straight into the upload box.
 
 ## 🎯 How to Use It
 The skill wakes up completely automatically when you type inside your normal Gemini chat window. Try pasting things like:
